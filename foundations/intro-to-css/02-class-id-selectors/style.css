@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: pink;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+.large-odd {
+    font-size: 32px;
+}
+
+#blue-large {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-bg-medium-bold {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
